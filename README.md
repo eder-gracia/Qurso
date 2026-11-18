@@ -42,4 +42,11 @@ Tutor: Oscar Ariño · Entrega: junio de 2027
 
 ## Instalación
 
-Pendiente...
+Instalación
+Qurso funciona con Docker: un único comando arranca la aplicación (Laravel), el servidor web, la base de datos (MySQL) y phpMyAdmin, sin instalar nada más en tu ordenador.
+
+Necesitas: Docker Desktop (en Windows, con WSL 2) y Git.
+
+Una vez arrancado:
+Aplicación: http://localhost:8080/
+phpMyAdmin: http://localhost:8081/
